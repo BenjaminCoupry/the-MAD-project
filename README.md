@@ -1,5 +1,5 @@
 
-# Archaeological Artefacts 3D Digitization Dataset
+# Multimodal Archaeological Dataset (MAD), Archaeological Artefacts 3D Digitization Dataset
 
 ## Overview
 
@@ -12,7 +12,7 @@ You can download the dataset using the link below.
 
 **⚠️ Warning**: Please note that the link may change in the future. Ensure you are accessing the most up-to-date version from the official source or repository.
 
-[Download Dataset](<INSERT_LINK_HERE>)
+[Download Dataset](<https://github.com/BenjaminCoupry/the-MAD-project>)
 
 ---
 
@@ -290,7 +290,7 @@ This document describes the purpose and usage of each file in the dataset.
 ---
 ## Metadata
 
-The dataset is composed of x files for a total of y Go
+The dataset is composed of 104 folders, 3396 files for a total of 98.7 Go
 
 ---
 ## Licensing and Citation
