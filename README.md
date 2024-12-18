@@ -1,9 +1,8 @@
 
-# Archaeological Artefacts 3D Digitization Dataset
+# Multimodal Archaeological Dataset (MAD)
 
 ## Overview
 
-Multimodal Archaeological Dataset (MAD)
 This dataset contains high-resolution 3D digitizations and multi-modal imaging data of six archaeological artefacts. The dataset spans objects representative of diverse materials, forms, and historical periods, from the Middle Paleolithic to the Bronze Age. It is designed for use in 3D reconstruction, digital archaeology, and cultural heritage studies.
 
 ### Download Link
