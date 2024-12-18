@@ -1,8 +1,9 @@
 
-# Multimodal Archaeological Dataset (MAD)
+# Archaeological Artefacts 3D Digitization Dataset
 
 ## Overview
 
+Multimodal Archaeological Dataset (MAD)
 This dataset contains high-resolution 3D digitizations and multi-modal imaging data of six archaeological artefacts. The dataset spans objects representative of diverse materials, forms, and historical periods, from the Middle Paleolithic to the Bronze Age. It is designed for use in 3D reconstruction, digital archaeology, and cultural heritage studies.
 
 ### Download Link
@@ -221,7 +222,7 @@ This document describes the purpose and usage of each file in the dataset.
 
 - **`mesh/mesh.ply`**:  
 
-  3D mesh generated from Structure-from-Motion (SfM) and Multi-View Stereo (MVS) processes.  
+  3D mesh generated from Structure-from-Motion (SfM) and Multi-View Stereo (MVS) processes, with AliceVision Meshroom.  
 
   *Usage*: Use as a baseline for comparisons with scanner meshes or photo stereo data.
 
