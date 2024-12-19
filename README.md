@@ -12,9 +12,7 @@ You can download the dataset using the link below.
 
 **⚠️ Warning**: Please note that the link may change in the future. Ensure you are accessing the most up-to-date version from the official source or repository. Contact the authors in case of persisting problem.
 
-[Download Dataset](<https://github.com/BenjaminCoupry/the-MAD-project>)
-
-[Backup Link](<https://github.com/BenjaminCoupry/the-MAD-project>)
+[Download Dataset](<https://file.dyn.bcoupry.fr/s/MAD_project>)
 
 ---
 
