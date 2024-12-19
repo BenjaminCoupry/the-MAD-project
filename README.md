@@ -14,6 +14,8 @@ You can download the dataset using the link below.
 
 [Download Dataset](<https://github.com/BenjaminCoupry/the-MAD-project>)
 
+[Backup Link](<https://github.com/BenjaminCoupry/the-MAD-project>)
+
 ---
 
 ### Objects in the Dataset
