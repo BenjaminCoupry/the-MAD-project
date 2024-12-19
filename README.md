@@ -134,7 +134,7 @@ This document describes the purpose and usage of each file in the dataset.
 	2. **Data Entries**:
 	   - Each subsequent line represents an individual light source:
 	     - **Identifier**: A unique label for the image captured under this light condition (e.g., `PS_00000`).
-	     - **Direction Vector**: The three numbers following the identifier specify the light's direction and intensity as `(x, y, z)` coordinates. These coordinates define the vector pointing from the object towards the light source.
+	     - **Direction Vector**: The three numbers following the identifier specify the light's direction and intensity as `(x, -y, -z)` coordinates. These coordinates define the vector pointing from the object towards the light source.
 
 
   *Usage*: Necessary for calibrated photometric stereo reconstruction.
