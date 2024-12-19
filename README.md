@@ -143,7 +143,8 @@ This document describes the purpose and usage of each file in the dataset.
 
 - **`pose.json`**:  
 
-  A JSON file containing intrinsic (K) and extrinsic (R, t) camera matrices, along with image dimensions (width, height), and distorsion parameters (k1, k2,k3).  
+  A JSON file containing intrinsic (K) and extrinsic (R, t) camera matrices, along with image dimensions (width, height), and distorsion parameters (k1, k2,k3).
+  R is the Camera to World rotation, t is the camera coordinates, we use the GL coordinates convention.
 
   *Usage*: Use for mapping between 2D images and 3D models, including link between photometric and geometric methods.
 
@@ -238,7 +239,8 @@ This document describes the purpose and usage of each file in the dataset.
 
 - **`poses/`**:
 
-  - **`MV_00000.json`** (and subsequent files): Intrinsic (K) and extrinsic (R, t) camera matrices, along with image dimensions, and distorsion parameters (k1, k2,k3).  
+  - **`MV_00000.json`** (and subsequent files): Intrinsic (K) and extrinsic (R, t) camera matrices, along with image dimensions, and distorsion parameters (k1, k2,k3).
+    R is the Camera to World rotation, t is the camera coordinates, we use the GL coordinates convention.
 
     *Usage*: Use for mapping between 2D Multi-View images and the 3D model.
 
