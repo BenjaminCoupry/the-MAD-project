@@ -136,10 +136,6 @@ This section describes the purpose and usage of each file in the dataset.
 
 
 
----
-
-
-
 ### Photo Stereo Data (`photo_stereo/`)
 
 - **`lights.lp`**:  
@@ -210,9 +206,6 @@ This section describes the purpose and usage of each file in the dataset.
 
     *Usage*: Use for comparison, alignment, or reconstruction workflows.
 
-
-
----
 
 
 
