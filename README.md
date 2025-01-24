@@ -108,8 +108,6 @@ data/
 ## File details
 This section describes the purpose and usage of each file in the dataset.
 
-This document describes the purpose and usage of each file in the dataset.
-
 
 
 ### Scanner Data (`scan/`)
