@@ -14,6 +14,26 @@ You can download the dataset using the link below.
 
 [Download Dataset](<https://file.dyn.bcoupry.fr/s/MAD_project>)
 
+### Paper method
+
+This dataset is part of the study presented in the paper:  
+**Benjamin Coupry, Antoine Laurent, Baptiste Brument, Jean Mélou, Yvain Quéau, and Jean-Denis Durou.**  
+*"Assessing the Quality of 3D Reconstruction in the Absence of Ground Truth: Application to a Multimodal Archaeological Dataset."*  
+In *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2025.*
+
+The method described in this repository stems from the observation that low- and high-frequency details in 3D reconstructions are best captured by distinct methods. This insight motivated the combination of Multi-View Stereo (MVS) and Calibrated Photometric Stereo (CPS) techniques, where MVS is used to calibrate the illumination required by CPS. By integrating the strengths of both methods, the proposed approach achieves accurate 3D reconstructions that effectively capture both global shapes and fine surface details. 
+
+The repository contains the implementation and tools required to reproduce this method, which has been successfully demonstrated on our archaeological dataset, highlighting its ability to leverage MVS and CPS for superior 3D reconstructions.
+
+
+For more details, you can explore the implementation of the proposed method in the repository linked below.
+
+**⚠️ Warning**: The following repository is specifically focused on light estimation for the proposed method. It does not include the implementation of the Photometric Stereo (PS) technique itself. Please refer to other resources or implementations for locally calibrated PS-related functionalities.
+
+**⚠️ Warning**: Documentation is currently in progress.
+
+[Method Repository](<https://github.com/BenjaminCoupry/HeliosMiniPS>)
+
 ---
 
 ### Objects in the Dataset
