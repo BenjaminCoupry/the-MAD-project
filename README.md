@@ -12,7 +12,8 @@ You can download the dataset using the link below.
 
 **⚠️ Warning**: Please note that the link may change in the future. Ensure you are accessing the most up-to-date version from the official source or repository. Contact the authors in case of persisting problem.
 
-[Download Dataset](<https://file.dyn.bcoupry.fr/s/MAD_project>)
+[Download Dataset Archive](<https://file.dyn.bcoupry.fr/s/MAD_project>)
+[Download Dataset Files](<https://cloud.dyn.bcoupry.fr/s/8fWZHHBcaGR24LP>)
 
 ### Paper method
 
